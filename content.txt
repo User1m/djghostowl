@@ -1,0 +1,32 @@
+ABOUT:
+Underground EDM producer. Enjoy The Music.
+
+
+
+Tiles templates: http://www.charlixcxmusic.com/
+PHOTOS:
+	-photo gallary
+
+VIDEOS:
+	-listing of videos
+
+
+
+Full page template ( calendar ):
+UPCOMING EVENTS:
+	-Calendar
+
+
+
+Store template:
+MERCH:
+	-store
+
+
+Contact templates:
+BOOKING:
+	-contact form for booking
+	 Iamghostowl@gmail.com
+CONTACT:
+	-contact form
+	Iamghostowl@gmail.com
